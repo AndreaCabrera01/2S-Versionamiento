@@ -1,5 +1,7 @@
 Hola mi nombre es Andrea
 tengo 23 años
 
+------------------------------------
+
 Hola mi nombre es María
 tengo 26 años
